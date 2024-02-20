@@ -1,0 +1,1 @@
+admin.site.register(ToDo, TodoAdmin)
